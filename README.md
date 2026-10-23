@@ -1,12 +1,12 @@
 # 🚀 Miku-FPS-modpack
 
-**Miku-FPS-modpack** — это легковесный и мощный модпак для Minecraft с крутыми дополнениями (c rn Miku), созданный с одной целью: максимально повысить FPS и обеспечить плавную игру даже на слабых компьютерах (ПК и ноутбуках).
+**Miku-FPS-modpack** is a lightweight and powerful modpack for Minecraft with cool add-ons (rp with Miku), created with one goal: to maximize FPS and ensure smooth gameplay even on low-end computers (PCs and laptops). 
 
 ⚡ *Effectively optimizes and removes lag!*
 
 ---
 
-## ✨ Features / Особенности
+## ✨ Features
 
 * 🚀 **Huge FPS boost:** The assembly replaces the standard graphics engine with more modern and effective alternatives (for example, Sodium/Lithium if the build is on Fabric).
 * 📉 **Stable TPS:** Game logic, chunk loading, and entity optimization for smooth gameplay on servers and in a single-player world.
@@ -15,7 +15,7 @@
 
 ---
 
-## 🔗 Mod List / Список модов
+## 🔗 Mod List
 
 * **Sodium** — revolutionary rendering optimization.
 * **Lithium** — physics and entity AI optimization.
@@ -24,7 +24,7 @@
 
 ---
 
-## 🛠️ Installation / Установка
+## 🛠️ Installation
 
 Since the assembly is packed in the `.mrpack` format, it is most convenient to install it through modern launchers.
 
@@ -36,7 +36,7 @@ Since the assembly is packed in the `.mrpack` format, it is most convenient to i
 
 ---
 
-## 📈 Benchmarks / Результаты тестов
+## 📈 Benchmarks
 
 | PC Configuration | FPS without modpack | FPS with Miku-FPS-modpack |
 | :--- | :---: | :---: |
@@ -45,6 +45,6 @@ Since the assembly is packed in the `.mrpack` format, it is most convenient to i
 
 ---
 
-## 📜 License / Лицензия
+## 📜 License
 
 The project is distributed under the free **MIT License**. You can freely use, modify, and distribute this modpack.
