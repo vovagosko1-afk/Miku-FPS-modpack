@@ -1,40 +1,50 @@
 # 🚀 Miku-FPS-modpack
 
-**Miku-FPS-modpack** — это легковесный и мощный модпак для Minecraft с крутыми дополнениями (с рп Miku), созданный с одной целью: **максимально повысить FPS** и обеспечить плавную игру даже на слабых компьютерах (ПК и ноутбуках).
+**Miku-FPS-modpack** — это легковесный и мощный модпак для Minecraft с крутыми дополнениями (c rn Miku), созданный с одной целью: максимально повысить FPS и обеспечить плавную игру даже на слабых компьютерах (ПК и ноутбуках).
 
-> ⚡ *Действительно оптимизирует и убирает лаги!*
+⚡ *Effectively optimizes and removes lag!*
 
-## ✨ Особенности / Features
+---
 
-* 🚀 **Огромный прирост FPS:** Сборка заменяет стандартный графический движок на более современные и эффективные альтернативы (например, Sodium/Lithium, если сборка на Fabric).
-* 📉 **Стабильный TPS:** Оптимизация логики игры, просчета чанков и сущностей для плавной игры на серверах и в одиночном мире.
-* 🧹 **Ничего лишнего:** Никаких тяжелых визуальных модов — только чистая производительность и полезные исправления багов.
-* 🛠️ **Готов к игре:** Оптимальные настройки графики уже выставлены по умолчанию.
+## ✨ Features / Особенности
 
-## 📦 Список модов / Mod List
+* 🚀 **Huge FPS boost:** The assembly replaces the standard graphics engine with more modern and effective alternatives (for example, Sodium/Lithium if the build is on Fabric).
+* 📉 **Stable TPS:** Game logic, chunk loading, and entity optimization for smooth gameplay on servers and in a single-player world.
+* 🧹 **Nothing extra:** No heavy visual mods — only pure performance and useful bug fixes.
+* ⚙️ **Ready to play:** Optimal graphics settings are already set by default.
 
-* **Sodium** — революционная оптимизация рендеринга.
-* **Lithium** — оптимизация физики и ИИ существ.
-* **FerriteCore** — значительное снижение потребления оперативной памяти (RAM).
-* **И ДРУГИЕ** моды для повышения производительности в Майнкрафт (также имеются пару пользовательских модов)
+---
 
-## 🛠️ Установка / Installation
+## 🔗 Mod List / Список модов
 
-Так как сборка упакована в формат `.mrpack`, её удобнее всего устанавливать через современные лаунчеры:
+* **Sodium** — revolutionary rendering optimization.
+* **Lithium** — physics and entity AI optimization.
+* **FerriteCore** — significant reduction in RAM consumption.
+* **AND OTHER mods** to increase performance in Minecraft (there are also a couple of user mods).
 
-### Через Ваш лаунчер (Рекомендуется Prism Launcher):
-1. Скачайте актуальный файл `v1.1.0 mrpack + .zip` из раздела [Releases](https://github.com).
-2. Откройте ваш лаунчер (Prism, Modrinth, TLauncher или CurseForge).
-3. Нажмите **"Создать экземпляр"** (Create Instance) -> **"Импорт"** (Import) и выберите скачанный файл `.mrpack`. Либо же загрузите ваш файл `.zip` в папку игры.
-4. Запускайте и наслаждайтесь плавной игрой!
+---
 
-## 📈 Результаты тестов / Benchmarks
+## 🛠️ Installation / Установка
 
-| Конфигурация ПК | FPS без модпака | FPS с Miku-FPS-modpack |
+Since the assembly is packed in the `.mrpack` format, it is most convenient to install it through modern launchers.
+
+### Through Your Launcher (Prism Launcher Recommended):
+1. Download the current file `v1.1.0 .mrpack + .zip` from the **Releases** section.
+2. Open your launcher (*Prism, Modrinth, TLauncher, or CurseForge*).
+3. Click **"Create Instance"** -> **"Import"** and select the downloaded `.mrpack` file. Or upload your `.zip` file to the game folder.
+4. Launch and enjoy smooth gameplay!
+
+---
+
+## 📈 Benchmarks / Результаты тестов
+
+| PC Configuration | FPS without modpack | FPS with Miku-FPS-modpack |
 | :--- | :---: | :---: |
-| Старый ноутбук (Core i3 / 8GB RAM) | ~30 FPS | **90+ FPS** 🚀 |
-| Средний ПК (GTX 1060 / Ryzen 5) | ~90 FPS | **300+ FPS** 🔥 |
+| **Old laptop** (Core i3 / 8GB RAM) | ~30 FPS | **90+ FPS** 🚀 |
+| **Mid-range PC** (GTX 1060 / Ryzen 5) | ~90 FPS | **300+ FPS** 🔥 |
 
-## 📝 Лицензия / License
+---
 
-Проект распространяется под свободной лицензией **MIT License**. Вы можете свободно использовать, изменять и распространять этот модпак.
+## 📜 License / Лицензия
+
+The project is distributed under the free **MIT License**. You can freely use, modify, and distribute this modpack.
