@@ -1,5 +1,5 @@
 # 🚀 Miku-FPS-modpack
-![logo_of_miku_fps](https://i.ibb.co/nq1b4Wdm/fc65df71bb887d11917d10bb8cccad70.jpg)
+![logo_of_miku_fps](https://i.ibb.co/Y7HwRjzK/fc65df71bb887d11917d10bb8cccad70.jpg)
 
 **Miku-FPS-modpack** is a lightweight and powerful modpack for Minecraft with cool add-ons (rp with Miku), created with one goal: to maximize FPS and ensure smooth gameplay even on low-end computers (PCs and laptops). 
 
